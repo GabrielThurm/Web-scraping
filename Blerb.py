@@ -1,3 +1,6 @@
+#Scrape some data from https://codedamn-classrooms.github.io/webscraper-python-codedamn-classroom-website/
+#This contains part of another's person web scrape code (freecodecamp)
+
 import requests
 from bs4 import BeautifulSoup
 import csv
